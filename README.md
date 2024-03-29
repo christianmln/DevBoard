@@ -6,5 +6,5 @@ Get started by visiting the [wiki](https://github.com/ECE-196/DevBoard/wiki).
 
 # Submission
 
-1. Image of assembled board named `submission.*` placed in root of this repository.
+1. Image of assembled board _powered on_ named `submission.*` placed in root of this repository.
 1. Updated changelog
